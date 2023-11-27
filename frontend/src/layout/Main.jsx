@@ -5,7 +5,7 @@ import "../App.css"
 
 const Main = () => {
   return (
-    <div >
+    <div>
         <Navbar/>
         <Outlet/>
         <footer>Footer</footer>
